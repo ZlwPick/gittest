@@ -18,8 +18,8 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("版本2");
 
-
-        System.out.println("创建分支表示之前分支的那个部分代码");
+        //相同的地方，主干和分支都有修改
+        System.out.println("主干添加表示之前分支的那个部分代码");
     }
 
 
