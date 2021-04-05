@@ -18,6 +18,8 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("版本2");
 
+
+        System.out.println("创建分支表示之前分支的那个部分代码");
     }
 
 
