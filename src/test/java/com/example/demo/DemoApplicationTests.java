@@ -19,6 +19,9 @@ class DemoApplicationTests {
         System.out.println("版本2");
 
         System.out.println("分支zzz");
+        System.out.println("远程仓库");
+        System.out.println("远程仓库");
+        System.out.println("远程仓库");
     }
 
 
